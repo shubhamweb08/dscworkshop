@@ -1,0 +1,29 @@
+body{
+    background-image:url(pic.jpg.jpg);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.header{
+    height: auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size:32px;
+    padding: 20px 0px 20px 0;
+    text-shadow: 10px 10px 20px red;
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+.black{
+text-align: center;
+}
+.image-container{
+    display: flex;
+    flex-wrap: wrap;
+}
